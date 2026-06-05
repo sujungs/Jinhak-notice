@@ -437,9 +437,20 @@ def load_major_content(find_major_list, headers, progress_bar = None):  # major 
 # 메인 화면 및 사이드 메뉴
 
 # 사이드바 설정
+# with st.sidebar:
+#     option = option_menu("메뉴", ["TABLE HTML", "EURAXESS", "CATCH 공고", "하이브레인넷", "Facebook 그룹"],
+#                          icons=['house','bank', 'kanban', 'bi bi-robot', 'card-heading' ],
+#                          menu_icon="menu-button", default_index=0,
+#                          styles={
+#         "container": {"padding": "5px", "background-color": "#fafafa", "width" : "260px", "margin" : "0"},
+#         "icon": {"color": "black", "font-size": "17px"},
+#         "nav-link": {"font-size": "14px", "text-align": "left"},
+#         "nav-link-selected": {"background-color": "#1FA8E1"},
+#     })
+
 with st.sidebar:
-    option = option_menu("메뉴", ["TABLE HTML", "EURAXESS", "CATCH 공고", "하이브레인넷", "Facebook 그룹"],
-                         icons=['house','bank', 'kanban', 'bi bi-robot', 'card-heading' ],
+    option = option_menu("메뉴", ["TABLE HTML", "EURAXESS", "하이브레인넷", "Facebook 그룹"],
+                         icons=['house','bank', 'bi bi-robot', 'card-heading' ],
                          menu_icon="menu-button", default_index=0,
                          styles={
         "container": {"padding": "5px", "background-color": "#fafafa", "width" : "260px", "margin" : "0"},
