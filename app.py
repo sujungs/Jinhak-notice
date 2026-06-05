@@ -189,7 +189,7 @@ def normalize_eur(html):
 def catch_notice(url):
     # url 형식 예: "https://www.catch.co.kr/NCS/RecruitInfoDetails/539080"
     
-    req = requests.get("url", headers=headers)
+    req = requests.get(url, headers=headers)
     html = bs(req.text, "html.parser")
     
     # 기업명
