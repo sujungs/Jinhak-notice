@@ -724,7 +724,7 @@ if option == "Facebook 그룹":
     if st.button("전공별 게시글 생성"):
         progress_bar = st.progress(0)
         # st.session_state.major_content = load_major_content(majors, headers, progress_bar)
-        st.session_state.major_content = 
+        # st.session_state.major_content = 
     st.divider()
     
     if st.session_state.major_content:
