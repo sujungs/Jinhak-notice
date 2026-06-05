@@ -621,7 +621,7 @@ if option == "CATCH 공고":
     catch_url = st.text_area("URL을 입력하세요", height = 50)
     
     if catch_url:
-        st.write(requests.get(url), bs(requests.get(url), "html.parser"))
+        st.write(requests.get(catch_url), bs(requests.get(catch_url), "html.parser"))
         catch_content = catch_notice(catch_url)
         st.code(catch_content, language="markdown")
 
