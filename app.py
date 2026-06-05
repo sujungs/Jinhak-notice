@@ -712,42 +712,42 @@ if inst:
 
 
 # E옵션
-# if option == "Facebook 그룹":
-#     st.write("📢 전공별 페이스북 게시글 관리")
+if option == "Facebook 그룹":
+    st.write("📢 전공별 페이스북 게시글 관리")
     
-#     if "major_content" not in st.session_state:
-#         st.session_state.major_content = {}
+    if "major_content" not in st.session_state:
+        st.session_state.major_content = {}
         
-#     majors = st.multiselect("발행할 전공을 선택하세요", options = url_list, default = url_list)
+    majors = st.multiselect("발행할 전공을 선택하세요", options = url_list, default = url_list)
     
-#     if st.button("전공별 게시글 생성"):
-#         progress_bar = st.progress(0)
-#         st.session_state.major_content = load_major_content(majors, headers, progress_bar)
+    if st.button("전공별 게시글 생성"):
+        progress_bar = st.progress(0)
+        st.session_state.major_content = load_major_content(majors, headers, progress_bar)
         
-#     st.divider()
+    st.divider()
     
-#     if st.session_state.major_content:
-#         selected_major = st.selectbox("전공을 선택하세요", majors)
+    if st.session_state.major_content:
+        selected_major = st.selectbox("전공을 선택하세요", majors)
         
-#         # 수정 및 미리보기 영역
-#         st.write(f"### ✏️ {selected_major} 게시글 수정")
+        # 수정 및 미리보기 영역
+        st.write(f"### ✏️ {selected_major} 게시글 수정")
         
-#         # text_area의 value를 session_state와 연결
-#         edited_text = st.text_area(value=st.session_state.major_content[selected_major],
-#             label="게시글 수정", label_visibility="collapsed",
-#             height=400, key=f"editor_{selected_major}")     # 각 전공별 고유 키 부여
+        # text_area의 value를 session_state와 연결
+        edited_text = st.text_area(value=st.session_state.major_content[selected_major],
+            label="게시글 수정", label_visibility="collapsed",
+            height=400, key=f"editor_{selected_major}")     # 각 전공별 고유 키 부여
 
-#         # 수정된 내용을 세션에 반영
-#         st.session_state.major_content[selected_major] = edited_text
+        # 수정된 내용을 세션에 반영
+        st.session_state.major_content[selected_major] = edited_text
 
-#         # 확인 후 페이스북 게시 시작
-#         if st.button("📨페이스북 자동 발행 시작"):
-#             seeding_list = pd.read_csv('facebook_seeding_list.csv', encoding='cp949')
-#             seeding_list = seeding_list[seeding_list['전공'].isin(majors)]
+        # 확인 후 페이스북 게시 시작
+        if st.button("📨페이스북 자동 발행 시작"):
+            seeding_list = pd.read_csv('facebook_seeding_list.csv', encoding='cp949')
+            seeding_list = seeding_list[seeding_list['전공'].isin(majors)]
             
-#             st.warning("5초 뒤에 자동화를 시작합니다. 페이스북 창을 열어두세요! (화면크기: 100%)")
-#             status_auto = st.empty()
-#             time.sleep(5)
+            st.warning("5초 뒤에 자동화를 시작합니다. 페이스북 창을 열어두세요! (화면크기: 100%)")
+            status_auto = st.empty()
+            time.sleep(5)
             
 #             success_list = []
 #             fail_list = []
