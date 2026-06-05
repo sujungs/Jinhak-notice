@@ -713,14 +713,13 @@ if inst:
 
 # E옵션
 if option == "Facebook 그룹":
-
-html = requests.get(
-    f"https://www.jinhakpro.com/api/applicant/recruit/search?searchText&isIncludeEndRecruit=false&isOnlyOnlineApply=false&sortType=3&currentPage=1&itemCount=16&majorCodes%5B%5D=20402",
-    headers=headers
-)
-
-st.write("status:", html.status_code)
-st.write(html.text[:500])
+    html = requests.get(
+                f"https://www.jinhakpro.com/api/applicant/recruit/search?searchText&isIncludeEndRecruit=false&isOnlyOnlineApply=false&sortType=3&currentPage=1&itemCount=16&majorCodes%5B%5D=20402",
+                headers=headers
+            )
+            
+    st.write("status:", html.status_code)
+    st.write(html.text[:500])
 
     st.write("📢 전공별 페이스북 게시글 관리")
     
