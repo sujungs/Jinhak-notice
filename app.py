@@ -621,6 +621,7 @@ if option == "CATCH 공고":
     catch_url = st.text_area("URL을 입력하세요", height = 50)
     
     if catch_url:
+        st.write(requests.get(url), bs(requests.get(url), "html.parser")
         catch_content = catch_notice(catch_url)
         st.code(catch_content, language="markdown")
 
@@ -713,14 +714,6 @@ if inst:
 
 # E옵션
 if option == "Facebook 그룹":
-    html = requests.get(
-                f"https://www.jinhakpro.com/api/applicant/recruit/search?searchText&isIncludeEndRecruit=false&isOnlyOnlineApply=false&sortType=3&currentPage=1&itemCount=16&majorCodes%5B%5D=20402",
-                headers=headers
-            )
-            
-    st.write("status:", html.status_code)
-    st.write(html.text[:500])
-
     st.write("📢 전공별 페이스북 게시글 관리")
     
     if "major_content" not in st.session_state:
@@ -730,8 +723,8 @@ if option == "Facebook 그룹":
     
     if st.button("전공별 게시글 생성"):
         progress_bar = st.progress(0)
-        st.session_state.major_content = load_major_content(majors, headers, progress_bar)
-        
+        # st.session_state.major_content = load_major_content(majors, headers, progress_bar)
+        st.session_state.major_content = 
     st.divider()
     
     if st.session_state.major_content:
