@@ -10,11 +10,11 @@ import re
 from datetime import datetime, timedelta
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import pyautogui
-import pyperclip
+# import pyautogui
+# import pyperclip
+# from PIL import ImageGrab
 import time
 import random
-from PIL import ImageGrab
 
 
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -712,100 +712,100 @@ if inst:
 
 
 # E옵션
-if option == "Facebook 그룹":
-    st.write("📢 전공별 페이스북 게시글 관리")
+# if option == "Facebook 그룹":
+#     st.write("📢 전공별 페이스북 게시글 관리")
     
-    if "major_content" not in st.session_state:
-        st.session_state.major_content = {}
+#     if "major_content" not in st.session_state:
+#         st.session_state.major_content = {}
         
-    majors = st.multiselect("발행할 전공을 선택하세요", options = url_list, default = url_list)
+#     majors = st.multiselect("발행할 전공을 선택하세요", options = url_list, default = url_list)
     
-    if st.button("전공별 게시글 생성"):
-        progress_bar = st.progress(0)
-        st.session_state.major_content = load_major_content(majors, headers, progress_bar)
+#     if st.button("전공별 게시글 생성"):
+#         progress_bar = st.progress(0)
+#         st.session_state.major_content = load_major_content(majors, headers, progress_bar)
         
-    st.divider()
+#     st.divider()
     
-    if st.session_state.major_content:
-        selected_major = st.selectbox("전공을 선택하세요", majors)
+#     if st.session_state.major_content:
+#         selected_major = st.selectbox("전공을 선택하세요", majors)
         
-        # 수정 및 미리보기 영역
-        st.write(f"### ✏️ {selected_major} 게시글 수정")
+#         # 수정 및 미리보기 영역
+#         st.write(f"### ✏️ {selected_major} 게시글 수정")
         
-        # text_area의 value를 session_state와 연결
-        edited_text = st.text_area(value=st.session_state.major_content[selected_major],
-            label="게시글 수정", label_visibility="collapsed",
-            height=400, key=f"editor_{selected_major}")     # 각 전공별 고유 키 부여
+#         # text_area의 value를 session_state와 연결
+#         edited_text = st.text_area(value=st.session_state.major_content[selected_major],
+#             label="게시글 수정", label_visibility="collapsed",
+#             height=400, key=f"editor_{selected_major}")     # 각 전공별 고유 키 부여
 
-        # 수정된 내용을 세션에 반영
-        st.session_state.major_content[selected_major] = edited_text
+#         # 수정된 내용을 세션에 반영
+#         st.session_state.major_content[selected_major] = edited_text
 
-        # 확인 후 페이스북 게시 시작
-        if st.button("📨페이스북 자동 발행 시작"):
-            seeding_list = pd.read_csv('facebook_seeding_list.csv', encoding='cp949')
-            seeding_list = seeding_list[seeding_list['전공'].isin(majors)]
+#         # 확인 후 페이스북 게시 시작
+#         if st.button("📨페이스북 자동 발행 시작"):
+#             seeding_list = pd.read_csv('facebook_seeding_list.csv', encoding='cp949')
+#             seeding_list = seeding_list[seeding_list['전공'].isin(majors)]
             
-            st.warning("5초 뒤에 자동화를 시작합니다. 페이스북 창을 열어두세요! (화면크기: 100%)")
-            status_auto = st.empty()
-            time.sleep(5)
+#             st.warning("5초 뒤에 자동화를 시작합니다. 페이스북 창을 열어두세요! (화면크기: 100%)")
+#             status_auto = st.empty()
+#             time.sleep(5)
             
-            success_list = []
-            fail_list = []
-            fail_text = ""
+#             success_list = []
+#             fail_list = []
+#             fail_text = ""
             
-            for index, row in seeding_list.iterrows():
-                pyautogui.click(x=2328, y=61)
-                pyperclip.copy(row["링크"])
-                pyautogui.hotkey('ctrl', 'v')
-                pyautogui.hotkey('enter')
+#             for index, row in seeding_list.iterrows():
+#                 pyautogui.click(x=2328, y=61)
+#                 pyperclip.copy(row["링크"])
+#                 pyautogui.hotkey('ctrl', 'v')
+#                 pyautogui.hotkey('enter')
                 
-                try :
-                    # [단계 1] 게시 버튼 클릭 (좌표 기반)
-                    time.sleep(random.uniform(3, 5))
-                    loc = check_image("글쓰기", confidence=0.8)     # 글쓰기 버튼 찾기
+#                 try :
+#                     # [단계 1] 게시 버튼 클릭 (좌표 기반)
+#                     time.sleep(random.uniform(3, 5))
+#                     loc = check_image("글쓰기", confidence=0.8)     # 글쓰기 버튼 찾기
                     
-                    hover_and_click(loc.x*0.95, loc.y*0.8)      # 듀얼 모니터 -> 화면 배율이 안 맞아 오류가 나기 때문에 비율 맞춰주기
+#                     hover_and_click(loc.x*0.95, loc.y*0.8)      # 듀얼 모니터 -> 화면 배율이 안 맞아 오류가 나기 때문에 비율 맞춰주기
                 
-                    random_mouse_idle()
-                    time.sleep(random.uniform(1, 2))
+#                     random_mouse_idle()
+#                     time.sleep(random.uniform(1, 2))
                     
-                    # 이미 클릭된 입력창에 멘트 작성
-                    content = st.session_state.major_content[row["전공"]]
-                    pyperclip.copy(content)
-                    pyautogui.hotkey('ctrl', 'v')
+#                     # 이미 클릭된 입력창에 멘트 작성
+#                     content = st.session_state.major_content[row["전공"]]
+#                     pyperclip.copy(content)
+#                     pyautogui.hotkey('ctrl', 'v')
                     
-                    time.sleep(random.uniform(1, 2))
-                    human_move(2702, 428)               # (글쓰기 창 중앙 x,y 좌표 입력)
-                    human_scroll()
+#                     time.sleep(random.uniform(1, 2))
+#                     human_move(2702, 428)               # (글쓰기 창 중앙 x,y 좌표 입력)
+#                     human_scroll()
                     
-                    check_image("게시", confidence=0.9)
+#                     check_image("게시", confidence=0.9)
 
-                    random_mouse_idle()
+#                     random_mouse_idle()
                     
-                    # [단계 3] 게시 버튼 클릭 (좌표 기반)
-                    hover_and_click(2666, 766)              # 게시 버튼 좌표 설정 필요
+#                     # [단계 3] 게시 버튼 클릭 (좌표 기반)
+#                     hover_and_click(2666, 766)              # 게시 버튼 좌표 설정 필요
                     
-                    success_list.append(row)
-                    status_auto.success(f"✅ {row['그룹명']} 발행 완료!")
+#                     success_list.append(row)
+#                     status_auto.success(f"✅ {row['그룹명']} 발행 완료!")
 
-                except Exception as e:
-                    fail_list.append(row)
-                    fail_text += f"""{row['그룹명']}({row['전공']}) : {row["링크"]}\n\n"""
-                    status_auto.error(f"❌ {row['그룹명']} 발행 실패: {e}")
+#                 except Exception as e:
+#                     fail_list.append(row)
+#                     fail_text += f"""{row['그룹명']}({row['전공']}) : {row["링크"]}\n\n"""
+#                     status_auto.error(f"❌ {row['그룹명']} 발행 실패: {e}")
                     
-                #[단계 4] 다음 작업을 위한 충분한 휴식 (봇 탐지 방지)
-                time.sleep(random.uniform(8, 12))
+#                 #[단계 4] 다음 작업을 위한 충분한 휴식 (봇 탐지 방지)
+#                 time.sleep(random.uniform(8, 12))
             
             
-            # 게시 작업 종료 후 결과 Excel 기록   
-            result_report = pd.read_excel("페이스북 시딩 결과.xlsx")
-            result_report.loc[len(result_report)] = [datetime.now().strftime("%Y-%m-%d %H:%M:%S"), len(success_list)]
-            result_report.to_excel("페이스북 시딩 결과.xlsx", index=False)
+#             # 게시 작업 종료 후 결과 Excel 기록   
+#             result_report = pd.read_excel("페이스북 시딩 결과.xlsx")
+#             result_report.loc[len(result_report)] = [datetime.now().strftime("%Y-%m-%d %H:%M:%S"), len(success_list)]
+#             result_report.to_excel("페이스북 시딩 결과.xlsx", index=False)
             
-            # 화면에 표시
-            st.write("### 🏁 작업 완료 리포트")
-            st.success(f"성공: {len(success_list)}건 / 실패: {len(fail_list)}건")
-            st.write(fail_text)
+#             # 화면에 표시
+#             st.write("### 🏁 작업 완료 리포트")
+#             st.success(f"성공: {len(success_list)}건 / 실패: {len(fail_list)}건")
+#             st.write(fail_text)
                 
 
 
