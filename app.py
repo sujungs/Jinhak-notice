@@ -397,8 +397,11 @@ def load_major_content(find_major_list, headers, progress_bar = None):  # major 
     idx = 1
     
     for major in find_major_list:
-        html = requests.get(f"{base_url}{url_list[major]}", headers=headers)        # 각 전공별 url → json 형태로 크롤링
-        data = html.json()
+        # html = requests.get(f"{base_url}{url_list[major]}", headers=headers)        # 각 전공별 url → json 형태로 크롤링
+        # data = html.json()
+
+        with open(f"data/{major}.json", encoding="utf-8") as f:
+            data = json.load(f)
 
         # recruitIdx, 기관명, 공고명, 채용구분, 공고마감일, 지역
         df = pd.DataFrame(data['list'])[["recruitIdx", "organName", "recruitTitle", "recruitTypeCode", "originApplyEndTime", "regionData"]]
@@ -621,7 +624,6 @@ if option == "CATCH 공고":
     catch_url = st.text_area("URL을 입력하세요", height = 50)
     
     if catch_url:
-        st.write(requests.get(catch_url)), bs(requests.get(catch_url).text, "html.parser")
         catch_content = catch_notice(catch_url)
         st.code(catch_content, language="markdown")
 
@@ -724,7 +726,9 @@ if option == "Facebook 그룹":
     if st.button("전공별 게시글 생성"):
         progress_bar = st.progress(0)
         # st.session_state.major_content = load_major_content(majors, headers, progress_bar)
-        # st.session_state.major_content = 
+
+with open(f"data/{major}.json", encoding="utf-8") as f:
+    data = json.load(f)
     st.divider()
     
     if st.session_state.major_content:
