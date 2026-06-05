@@ -1,0 +1,766 @@
+{
+    "list": [
+        {
+            "rank": null,
+            "recruitIdx": 42905,
+            "recruitTitle": "2026-2학기 성심교정 강사 초빙 공고 1차",
+            "recruitTypeCode": "L",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-03T15:00:00.000Z",
+            "applyEndTime": "2026-06-10T07:00:59.000Z",
+            "dDay": 5,
+            "hompageUrl": "https://uportal.catholic.ac.kr/stw/recu/appl/applApplyLogin.do",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-10T07:00:59.000Z",
+            "registerTime": "2026-06-05 11:54:41",
+            "originApplyStartTime": "2026-06-04 00:00:00",
+            "originApplyEndTime": "2026-06-10 16:00:59",
+            "originPublishStartTime": "2026-06-04 00:00:00",
+            "originPublishEndTime": "2026-06-10 16:00:59",
+            "regionData": [
+                {
+                    "address": "성심캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "7",
+                    "region": "경기"
+                }
+            ],
+            "organIdx": 5,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "가톨릭대학교",
+            "currentTime": "2026-06-05 13:39:50.358",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 15,
+            "inflowCnt": 12,
+            "logoFileName": "1009",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42893,
+            "recruitTitle": "2026학년도 1학기 정보통신대학원 산학협력교수 초빙 공고",
+            "recruitTypeCode": "T",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-02T01:00:00.000Z",
+            "applyEndTime": "2026-06-08T07:00:59.000Z",
+            "dDay": 3,
+            "hompageUrl": "http://faculty.ajou.ac.kr",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-08T07:00:59.000Z",
+            "registerTime": "2026-06-04 17:00:20",
+            "originApplyStartTime": "2026-06-02 10:00:00",
+            "originApplyEndTime": "2026-06-08 16:00:59",
+            "originPublishStartTime": "2026-06-02 10:00:00",
+            "originPublishEndTime": "2026-06-08 16:00:59",
+            "regionData": [
+                {
+                    "address": "아주대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경기",
+                    "campus_idx": "176"
+                }
+            ],
+            "organIdx": 154,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "아주대학교",
+            "currentTime": "2026-06-05 13:39:50.358",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 12,
+            "inflowCnt": 10,
+            "logoFileName": "1228",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42891,
+            "recruitTitle": "글로컬대학사업(가상융합기술연구원) 전담인력 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-07T08:00:59.000Z",
+            "dDay": 2,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-07T08:00:59.000Z",
+            "registerTime": "2026-06-04 16:55:01",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-07 17:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-07 17:00:59",
+            "regionData": [
+                {
+                    "address": "동서대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "부산",
+                    "campus_idx": "34"
+                }
+            ],
+            "organIdx": 31,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "동서대학교",
+            "currentTime": "2026-06-05 13:39:50.358",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 10,
+            "inflowCnt": 7,
+            "logoFileName": "1120",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42888,
+            "recruitTitle": "AI인재양성부트캠프사업단 신규 계약직원 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-10T07:00:59.000Z",
+            "dDay": 5,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-10T07:00:59.000Z",
+            "registerTime": "2026-06-04 16:37:05",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-10 16:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-10 16:00:59",
+            "regionData": [
+                {
+                    "address": "국립순천대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "401",
+                    "region": "전남"
+                }
+            ],
+            "organIdx": 357,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "국립순천대학교",
+            "currentTime": "2026-06-05 13:39:50.359",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 5,
+            "inflowCnt": 3,
+            "logoFileName": "1215",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42887,
+            "recruitTitle": "2026학년도 제2학기 전임교원 및 산학협력중점교수(채용형 전임교원) 공개채용 공고",
+            "recruitTypeCode": "P",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-02T01:00:00.000Z",
+            "applyEndTime": "2026-06-17T08:00:59.000Z",
+            "dDay": 12,
+            "hompageUrl": "https://mnupr.mokpo.ac.kr:8282/",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-17T08:00:59.000Z",
+            "registerTime": "2026-06-04 16:04:45",
+            "originApplyStartTime": "2026-06-02 10:00:00",
+            "originApplyEndTime": "2026-06-17 17:00:59",
+            "originPublishStartTime": "2026-06-02 10:00:00",
+            "originPublishEndTime": "2026-06-17 17:00:59",
+            "regionData": [
+                {
+                    "address": "공주캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "32",
+                    "region": "충남"
+                }
+            ],
+            "organIdx": 29,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "국립공주대학교",
+            "currentTime": "2026-06-05 13:39:50.359",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 113,
+            "inflowCnt": 100,
+            "logoFileName": "1055",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42880,
+            "recruitTitle": "2026년도 제2차 전문직원 채용공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-09T07:00:00.000Z",
+            "applyEndTime": "2026-06-16T01:00:59.000Z",
+            "dDay": 11,
+            "hompageUrl": "http://recruit.kepco.co.kr",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-16T01:00:59.000Z",
+            "registerTime": "2026-06-04 15:29:48",
+            "originApplyStartTime": "2026-06-09 16:00:00",
+            "originApplyEndTime": "2026-06-16 10:00:59",
+            "originPublishStartTime": "2026-06-02 16:00:00",
+            "originPublishEndTime": "2026-06-16 10:00:59",
+            "regionData": [
+                {
+                    "address": "한국전력공사 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "3081",
+                    "region": "전남"
+                },
+                {
+                    "address": "서울시 서초구 효령로 72길 60 UAE원전건설처",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "etc",
+                    "region": "서울"
+                },
+                {
+                    "address": "대전시 유성구 문지로 105 전력연구원 디지털솔루션연구소",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "etc",
+                    "region": "대전"
+                },
+                {
+                    "address": "나주시 전력로 55",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "etc",
+                    "region": "전남"
+                }
+            ],
+            "organIdx": 5634,
+            "organTypeCode": "RS1",
+            "organCode": "RS3",
+            "organName": "한국전력공사",
+            "currentTime": "2026-06-05 13:39:50.359",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 21,
+            "inflowCnt": 14,
+            "logoFileName": "1010113800_6f3is",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42879,
+            "recruitTitle": "과학기술정보통신부 연구개발 민간전문가(PM) 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-03T15:00:00.000Z",
+            "applyEndTime": "2026-06-18T08:00:59.000Z",
+            "dDay": 13,
+            "hompageUrl": "https://recruit.incruit.com/iitp",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-18T08:00:59.000Z",
+            "registerTime": "2026-06-04 15:26:50",
+            "originApplyStartTime": "2026-06-04 00:00:00",
+            "originApplyEndTime": "2026-06-18 17:00:59",
+            "originPublishStartTime": "2026-06-04 00:00:00",
+            "originPublishEndTime": "2026-06-18 17:00:59",
+            "regionData": [
+                {
+                    "address": "정보통신기획평가원 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "대전",
+                    "campus_idx": "3045"
+                },
+                {
+                    "address": "서울",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "서울",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 5598,
+            "organTypeCode": "RS1",
+            "organCode": "RS3",
+            "organName": "정보통신기획평가원",
+            "currentTime": "2026-06-05 13:39:50.359",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 13,
+            "inflowCnt": 10,
+            "logoFileName": "0405100856_l45da",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42875,
+            "recruitTitle": "충북녹색환경지원센터 계약직 직원채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-15T09:00:59.000Z",
+            "dDay": 10,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-15T09:00:59.000Z",
+            "registerTime": "2026-06-04 15:17:37",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-15 18:00:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-15 18:00:59",
+            "regionData": [
+                {
+                    "address": "충북녹색환경지원센터 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "충북",
+                    "campus_idx": "201239"
+                },
+                {
+                    "address": "청주시 서원구 충대로 1",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "충북",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 201239,
+            "organTypeCode": "RS1",
+            "organCode": "RS1",
+            "organName": "충북녹색환경지원센터",
+            "currentTime": "2026-06-05 13:39:50.359",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 5,
+            "inflowCnt": 3,
+            "logoFileName": "0604145627_g0ziv",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42864,
+            "recruitTitle": "Postdoctoral Research Fellow in Ethics of Embodied AI",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-09-01T14:00:59.000Z",
+            "dDay": 88,
+            "hompageUrl": "https://euraxess.ec.europa.eu/jobs/441826",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-09-01T14:00:59.000Z",
+            "registerTime": "2026-06-04 12:15:14",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-09-01 23:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-09-01 23:00:59",
+            "regionData": [
+                {
+                    "address": "Norway, Department of Informatics",
+                    "national_name": "노르웨이",
+                    "national": "578",
+                    "campus_idx": "etc",
+                    "region": "해외"
+                }
+            ],
+            "organIdx": 100486,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "University of Oslo",
+            "currentTime": "2026-06-05 13:39:50.359",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 2,
+            "inflowCnt": 1,
+            "logoFileName": "G00486",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42862,
+            "recruitTitle": "Post-doctoral researcher in neurocardiology",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-07-02T03:00:59.000Z",
+            "dDay": 27,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-07-02T03:00:59.000Z",
+            "registerTime": "2026-06-04 12:13:01",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-07-02 12:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-07-02 12:00:59",
+            "regionData": [
+                {
+                    "address": "University of Bordeaux 본교",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "region": "해외",
+                    "campus_idx": "100451"
+                },
+                {
+                    "address": "France, IHU Liryc, Pessac, 33600, Gironde, Avenue du Haut Lévêque",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100451,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "University of Bordeaux",
+            "currentTime": "2026-06-05 13:39:50.359",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 1,
+            "inflowCnt": 1,
+            "logoFileName": "G00451",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42860,
+            "recruitTitle": "Research Grant: BIOCO2PRO - Biogenic CO2 utilization for circular waste-to-batteries and hydrogen production",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-19T08:00:59.000Z",
+            "dDay": 14,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-19T08:00:59.000Z",
+            "registerTime": "2026-06-04 12:10:19",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-06-19 17:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-06-19 17:00:59",
+            "regionData": [
+                {
+                    "address": "University of Aveiro 본교",
+                    "national_name": "포르투갈",
+                    "national": "620",
+                    "region": "해외",
+                    "campus_idx": "100436"
+                },
+                {
+                    "address": "Portugal, CESAM - Centre for Environmental and Marine Studies, Aveiro, 3810-193, Campus Universitário de Santiago",
+                    "national_name": "포르투갈",
+                    "national": "620",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100436,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "University of Aveiro",
+            "currentTime": "2026-06-05 13:39:50.360",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 1,
+            "inflowCnt": 0,
+            "logoFileName": "G00436",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42853,
+            "recruitTitle": "Post-doctoral researcher in reproducible experimentation and network acceleration for generative AI – 18-month Fixed-Term Contract",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-30T15:00:59.000Z",
+            "dDay": 26,
+            "hompageUrl": "https://euraxess.ec.europa.eu/jobs/441841",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-30T15:00:59.000Z",
+            "registerTime": "2026-06-04 12:03:26",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-07-01 00:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-07-01 00:00:59",
+            "regionData": [
+                {
+                    "address": "France, IMT Atlantique, Nantes, 44000, 4 Rue Alfred Kastler, 44300 Nantes",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 200100,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "IMT Atlantique",
+            "currentTime": "2026-06-05 13:39:50.360",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 3,
+            "inflowCnt": 1,
+            "logoFileName": "0217153550_l71vc",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42852,
+            "recruitTitle": "Post-doctoral Fellowship in Diffusion Neuroimaging – 24-month Fixed-Term Contract",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-30T15:00:59.000Z",
+            "dDay": 26,
+            "hompageUrl": "https://euraxess.ec.europa.eu/jobs/441840",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-30T15:00:59.000Z",
+            "registerTime": "2026-06-04 12:01:51",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-07-01 00:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-07-01 00:00:59",
+            "regionData": [
+                {
+                    "address": "IMT Atlantique 본교",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "region": "해외",
+                    "campus_idx": "200100"
+                },
+                {
+                    "address": "France, IMT Atlantique, Brest, 29200, 655 avenue du technopôle 29280 Plouzané",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 200100,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "IMT Atlantique",
+            "currentTime": "2026-06-05 13:39:50.360",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 4,
+            "inflowCnt": 3,
+            "logoFileName": "0217153550_l71vc",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42848,
+            "recruitTitle": "인공지능혁신융합대학사업단 2026년 초빙교원-JA교원 채용 공고",
+            "recruitTypeCode": "T",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-17T14:59:59.000Z",
+            "dDay": 12,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-17T14:59:59.000Z",
+            "registerTime": "2026-06-04 11:55:24",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-17 23:59:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-17 23:59:59",
+            "regionData": [
+                {
+                    "address": "용봉캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "광주",
+                    "campus_idx": "312"
+                }
+            ],
+            "organIdx": 274,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "전남대학교",
+            "currentTime": "2026-06-05 13:39:50.360",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 13,
+            "inflowCnt": 2,
+            "logoFileName": "1279",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42835,
+            "recruitTitle": "2026학년도 2학기 신규 강사채용",
+            "recruitTypeCode": "L",
+            "applyMethodCode": [
+                "E",
+                "V"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-12T06:00:59.000Z",
+            "dDay": 7,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-12T06:00:59.000Z",
+            "registerTime": "2026-06-04 11:18:45",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-12 15:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-12 15:00:59",
+            "regionData": [
+                {
+                    "address": "경기과학기술대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "12",
+                    "region": "경기"
+                }
+            ],
+            "organIdx": 10,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV2",
+            "organName": "경기과학기술대학교",
+            "currentTime": "2026-06-05 13:39:50.360",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 152,
+            "inflowCnt": 127,
+            "logoFileName": "1390",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42833,
+            "recruitTitle": "2026학년도 2학기 전임교수 초빙 공고",
+            "recruitTypeCode": "P",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-15T09:00:59.000Z",
+            "dDay": 10,
+            "hompageUrl": "https://ext.chungwoon.ac.kr/employment",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-15T09:00:59.000Z",
+            "registerTime": "2026-06-02 15:35:42",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-15 18:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-15 18:00:59",
+            "regionData": [
+                {
+                    "address": "홍성캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "33",
+                    "region": "충남"
+                }
+            ],
+            "organIdx": 30,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "청운대학교",
+            "currentTime": "2026-06-05 13:39:50.360",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 481,
+            "inflowCnt": 135,
+            "logoFileName": "1308",
+            "logoFileExt": ".svg"
+        }
+    ],
+    "cnt": 144
+}

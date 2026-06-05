@@ -1,0 +1,783 @@
+{
+    "list": [
+        {
+            "rank": null,
+            "recruitIdx": 42907,
+            "recruitTitle": "2026학년도 2학기 의과대학 비전임교원 초빙 공고",
+            "recruitTypeCode": "T",
+            "applyMethodCode": [
+                "P"
+            ],
+            "applyStartTime": "2026-06-03T15:00:00.000Z",
+            "applyEndTime": "2026-06-18T08:00:59.000Z",
+            "dDay": 13,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-18T08:00:59.000Z",
+            "registerTime": "2026-06-05 11:59:14",
+            "originApplyStartTime": "2026-06-04 00:00:00",
+            "originApplyEndTime": "2026-06-18 17:00:59",
+            "originPublishStartTime": "2026-06-04 00:00:00",
+            "originPublishEndTime": "2026-06-18 17:00:59",
+            "regionData": [
+                {
+                    "address": "논산창의융합캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "213",
+                    "region": "충남"
+                }
+            ],
+            "organIdx": 189,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "건양대학교",
+            "currentTime": "2026-06-05 13:39:56.906",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 5,
+            "inflowCnt": 4,
+            "logoFileName": "1022",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42877,
+            "recruitTitle": "2026년도 하반기 아열대수산연구소 기간제근로자 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E",
+                "P",
+                "V"
+            ],
+            "applyStartTime": "2026-06-09T00:00:00.000Z",
+            "applyEndTime": "2026-06-12T09:00:59.000Z",
+            "dDay": 7,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-12T09:00:59.000Z",
+            "registerTime": "2026-06-04 15:22:27",
+            "originApplyStartTime": "2026-06-09 09:00:00",
+            "originApplyEndTime": "2026-06-12 18:00:59",
+            "originPublishStartTime": "2026-06-02 09:00:00",
+            "originPublishEndTime": "2026-06-12 18:00:59",
+            "regionData": [
+                {
+                    "address": "국립수산과학원 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "부산",
+                    "campus_idx": "2455"
+                },
+                {
+                    "address": "제주",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "제주",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 3132,
+            "organTypeCode": "RS1",
+            "organCode": "RS3",
+            "organName": "국립수산과학원",
+            "currentTime": "2026-06-05 13:39:56.906",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 1,
+            "inflowCnt": 0,
+            "logoFileName": "R3132",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42875,
+            "recruitTitle": "충북녹색환경지원센터 계약직 직원채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-15T09:00:59.000Z",
+            "dDay": 10,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-15T09:00:59.000Z",
+            "registerTime": "2026-06-04 15:17:37",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-15 18:00:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-15 18:00:59",
+            "regionData": [
+                {
+                    "address": "충북녹색환경지원센터 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "충북",
+                    "campus_idx": "201239"
+                },
+                {
+                    "address": "청주시 서원구 충대로 1",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "충북",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 201239,
+            "organTypeCode": "RS1",
+            "organCode": "RS1",
+            "organName": "충북녹색환경지원센터",
+            "currentTime": "2026-06-05 13:39:56.906",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 5,
+            "inflowCnt": 3,
+            "logoFileName": "0604145627_g0ziv",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42873,
+            "recruitTitle": "산림약용자원연구소 석사급연구원 기간제근로자 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E",
+                "V"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-15T02:00:59.000Z",
+            "dDay": 10,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-15T02:00:59.000Z",
+            "registerTime": "2026-06-04 15:16:03",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-15 11:00:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-15 11:00:59",
+            "regionData": [
+                {
+                    "address": "국립산림과학원 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "서울",
+                    "campus_idx": "2486"
+                },
+                {
+                    "address": "영주시 풍기읍 소백로 2009 산림약용자원연구소",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경북",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 3170,
+            "organTypeCode": "RS1",
+            "organCode": "RS3",
+            "organName": "국립산림과학원",
+            "currentTime": "2026-06-05 13:39:56.906",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 2,
+            "inflowCnt": 1,
+            "logoFileName": "R3170",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42870,
+            "recruitTitle": "mRNA/DNA 기반 의약품 개발생산 지원센터 위촉연구원 모집 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-17T14:59:59.000Z",
+            "dDay": 12,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-17T14:59:59.000Z",
+            "registerTime": "2026-06-04 14:02:43",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-17 23:59:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-17 23:59:59",
+            "regionData": [
+                {
+                    "address": "한국과학기술원 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "대전",
+                    "campus_idx": "201"
+                },
+                {
+                    "address": "유성구 대학로 291 w13건물, 메타융합관 3층",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "대전",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 178,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "한국과학기술원",
+            "currentTime": "2026-06-05 13:39:56.906",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 3,
+            "inflowCnt": 2,
+            "logoFileName": "1330",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42866,
+            "recruitTitle": "Postdoc Position in Immunomodulatory self-assembling peptide-based biomaterials",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-07-31T14:59:59.000Z",
+            "dDay": 56,
+            "hompageUrl": "https://euraxess.ec.europa.eu/jobs/441835",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-07-31T14:59:59.000Z",
+            "registerTime": "2026-06-04 13:46:39",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-07-31 23:59:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-07-31 23:59:59",
+            "regionData": [
+                {
+                    "address": "Denmark, University of Southern Denmark/The Faculty of Engineering, Odense, 5230, Syddanmark, Campusvej 55",
+                    "national_name": "덴마크",
+                    "national": "208",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100144,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "University of Southern Denmark",
+            "currentTime": "2026-06-05 13:39:56.907",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 6,
+            "inflowCnt": 3,
+            "logoFileName": "G00144",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42863,
+            "recruitTitle": "CALL FOR EXPRESSIONS OF INTEREST - MIA-Portugal",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-18T14:59:59.000Z",
+            "dDay": 13,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-18T14:59:59.000Z",
+            "registerTime": "2026-06-04 12:14:10",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-06-18 23:59:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-06-18 23:59:59",
+            "regionData": [
+                {
+                    "address": "University of Coimbra 본교",
+                    "national_name": "포르투갈",
+                    "national": "620",
+                    "region": "해외",
+                    "campus_idx": "100437"
+                }
+            ],
+            "organIdx": 100437,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "University of Coimbra",
+            "currentTime": "2026-06-05 13:39:56.907",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 2,
+            "inflowCnt": 2,
+            "logoFileName": "G00437",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42862,
+            "recruitTitle": "Post-doctoral researcher in neurocardiology",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-07-02T03:00:59.000Z",
+            "dDay": 27,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-07-02T03:00:59.000Z",
+            "registerTime": "2026-06-04 12:13:01",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-07-02 12:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-07-02 12:00:59",
+            "regionData": [
+                {
+                    "address": "University of Bordeaux 본교",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "region": "해외",
+                    "campus_idx": "100451"
+                },
+                {
+                    "address": "France, IHU Liryc, Pessac, 33600, Gironde, Avenue du Haut Lévêque",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100451,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "University of Bordeaux",
+            "currentTime": "2026-06-05 13:39:56.907",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 1,
+            "inflowCnt": 1,
+            "logoFileName": "G00451",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42861,
+            "recruitTitle": "First Level Doctorate Researcher in the scientific areas of Biotechnology, Material Science and Eng, Chemical Eng, Chemistry",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-18T14:59:59.000Z",
+            "dDay": 13,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-18T14:59:59.000Z",
+            "registerTime": "2026-06-04 12:11:38",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-06-18 23:59:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-06-18 23:59:59",
+            "regionData": [
+                {
+                    "address": "University of Aveiro 본교",
+                    "national_name": "포르투갈",
+                    "national": "620",
+                    "region": "해외",
+                    "campus_idx": "100436"
+                },
+                {
+                    "address": "Portugal, University of Aveiro; CICECO - Institute of Materials, University of Aveiro",
+                    "national_name": "포르투갈",
+                    "national": "620",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100436,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "University of Aveiro",
+            "currentTime": "2026-06-05 13:39:56.907",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 4,
+            "inflowCnt": 3,
+            "logoFileName": "G00436",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42860,
+            "recruitTitle": "Research Grant: BIOCO2PRO - Biogenic CO2 utilization for circular waste-to-batteries and hydrogen production",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-19T08:00:59.000Z",
+            "dDay": 14,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-19T08:00:59.000Z",
+            "registerTime": "2026-06-04 12:10:19",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-06-19 17:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-06-19 17:00:59",
+            "regionData": [
+                {
+                    "address": "University of Aveiro 본교",
+                    "national_name": "포르투갈",
+                    "national": "620",
+                    "region": "해외",
+                    "campus_idx": "100436"
+                },
+                {
+                    "address": "Portugal, CESAM - Centre for Environmental and Marine Studies, Aveiro, 3810-193, Campus Universitário de Santiago",
+                    "national_name": "포르투갈",
+                    "national": "620",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100436,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "University of Aveiro",
+            "currentTime": "2026-06-05 13:39:56.907",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 1,
+            "inflowCnt": 0,
+            "logoFileName": "G00436",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42856,
+            "recruitTitle": "Post-doctoral position",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-22T03:00:59.000Z",
+            "dDay": 17,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-22T03:00:59.000Z",
+            "registerTime": "2026-06-04 12:07:08",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-06-22 12:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-06-22 12:00:59",
+            "regionData": [
+                {
+                    "address": "Poland, Institute of Physical Chemistry Polish Academy of Sciences, Warsaw, 01-224, Kasprzaka 44/52",
+                    "national_name": "폴란드",
+                    "national": "616",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100354,
+            "organTypeCode": "RS1",
+            "organCode": "RS2",
+            "organName": "Institute of Physical Chemistry Polish Academy of Sciences",
+            "currentTime": "2026-06-05 13:39:56.907",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 5,
+            "inflowCnt": 4,
+            "logoFileName": "G00354",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42852,
+            "recruitTitle": "Post-doctoral Fellowship in Diffusion Neuroimaging – 24-month Fixed-Term Contract",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-30T15:00:59.000Z",
+            "dDay": 26,
+            "hompageUrl": "https://euraxess.ec.europa.eu/jobs/441840",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-30T15:00:59.000Z",
+            "registerTime": "2026-06-04 12:01:51",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-07-01 00:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-07-01 00:00:59",
+            "regionData": [
+                {
+                    "address": "IMT Atlantique 본교",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "region": "해외",
+                    "campus_idx": "200100"
+                },
+                {
+                    "address": "France, IMT Atlantique, Brest, 29200, 655 avenue du technopôle 29280 Plouzané",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 200100,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "IMT Atlantique",
+            "currentTime": "2026-06-05 13:39:56.908",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 4,
+            "inflowCnt": 3,
+            "logoFileName": "0217153550_l71vc",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42844,
+            "recruitTitle": "자연과학대학부설 기초과학연구소 행정조교 신규 채용 안내",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-15T01:00:59.000Z",
+            "dDay": 10,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-15T01:00:59.000Z",
+            "registerTime": "2026-06-04 11:41:24",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-15 10:00:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-15 10:00:59",
+            "regionData": [
+                {
+                    "address": "순천향대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "충남",
+                    "campus_idx": "79"
+                }
+            ],
+            "organIdx": 70,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "순천향대학교",
+            "currentTime": "2026-06-05 13:39:56.908",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 3,
+            "inflowCnt": 2,
+            "logoFileName": "1217",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42832,
+            "recruitTitle": "2026학년도 하반기 비정년트랙전임교원(강의전담교원) 공개채용",
+            "recruitTypeCode": "T",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-15T08:00:59.000Z",
+            "dDay": 10,
+            "hompageUrl": "https://eams.eulji.net/nxui/eulji_rcm.html",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-15T08:00:59.000Z",
+            "registerTime": "2026-06-02 15:30:06",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-15 17:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-15 17:00:59",
+            "regionData": [
+                {
+                    "address": "성남캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경기",
+                    "campus_idx": "22"
+                },
+                {
+                    "address": "의정부캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경기",
+                    "campus_idx": "476"
+                }
+            ],
+            "organIdx": 20,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "을지대학교",
+            "currentTime": "2026-06-05 13:39:56.908",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 156,
+            "inflowCnt": 100,
+            "logoFileName": "1267",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42823,
+            "recruitTitle": "2026학년도 2학기 교수초빙 안내 2차",
+            "recruitTypeCode": "P",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-16T01:00:59.000Z",
+            "dDay": 11,
+            "hompageUrl": "https://recruit.syu.ac.kr/",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-16T01:00:59.000Z",
+            "registerTime": "2026-06-02 14:59:22",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-16 10:00:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-16 10:00:59",
+            "regionData": [
+                {
+                    "address": "삼육대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "329",
+                    "region": "서울"
+                }
+            ],
+            "organIdx": 290,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "삼육대학교",
+            "currentTime": "2026-06-05 13:39:56.908",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 590,
+            "inflowCnt": 229,
+            "logoFileName": "1166",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42820,
+            "recruitTitle": "2026학년도 2학기 및 2027학년도 1학기 강사 공개채용 공고",
+            "recruitTypeCode": "L",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-08T07:00:59.000Z",
+            "dDay": 3,
+            "hompageUrl": "https://gmsportal.korea.ac.kr/recruit/index_lecturer.jsp",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-08T07:00:59.000Z",
+            "registerTime": "2026-06-02 14:46:50",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-08 16:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-08 16:00:59",
+            "regionData": [
+                {
+                    "address": "안암캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "335",
+                    "region": "서울"
+                }
+            ],
+            "organIdx": 295,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "고려대학교",
+            "currentTime": "2026-06-05 13:39:56.909",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 1696,
+            "inflowCnt": 394,
+            "logoFileName": "1050",
+            "logoFileExt": ".svg"
+        }
+    ],
+    "cnt": 167
+}

@@ -1,0 +1,91 @@
+{
+    "list": [
+        {
+            "rank": null,
+            "recruitIdx": 42756,
+            "recruitTitle": "경희대학교 아프리카연구소 학술연구교수 초빙 공고",
+            "recruitTypeCode": "T",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-05-27T15:00:00.000Z",
+            "applyEndTime": "2026-06-08T01:00:59.000Z",
+            "dDay": 3,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-08T01:00:59.000Z",
+            "registerTime": "2026-06-01 15:00:34",
+            "originApplyStartTime": "2026-05-28 00:00:00",
+            "originApplyEndTime": "2026-06-08 10:00:59",
+            "originPublishStartTime": "2026-05-28 00:00:00",
+            "originPublishEndTime": "2026-06-08 10:00:59",
+            "regionData": [
+                {
+                    "address": "국제캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경기",
+                    "campus_idx": "296"
+                }
+            ],
+            "organIdx": 264,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "경희대학교",
+            "currentTime": "2026-06-05 13:39:59.561",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 36,
+            "inflowCnt": 31,
+            "logoFileName": "1043",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 23837,
+            "recruitTitle": "대한민국 교수·강사 임용 준비방 참여자 모집",
+            "recruitTypeCode": "P",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2025-02-24T02:20:00.000Z",
+            "applyEndTime": "2027-12-31T14:59:59.000Z",
+            "dDay": 574,
+            "hompageUrl": "https://open.kakao.com/o/gpLoyf3g",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2027-12-31T14:59:59.000Z",
+            "registerTime": "2025-02-24 11:19:58",
+            "originApplyStartTime": "2025-02-24 11:20:00",
+            "originApplyEndTime": "2027-12-31 23:59:59",
+            "originPublishStartTime": "2025-02-24 11:20:00",
+            "originPublishEndTime": "2027-12-31 23:59:59",
+            "regionData": [
+                {
+                    "address": "-",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "etc",
+                    "region": "서울"
+                }
+            ],
+            "organIdx": 200129,
+            "organTypeCode": "RS1",
+            "organCode": "RS1",
+            "organName": "진학프로",
+            "currentTime": "2026-06-05 13:39:59.561",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 10460,
+            "inflowCnt": 5653,
+            "logoFileName": "0224111434_ppkmh",
+            "logoFileExt": ".svg"
+        }
+    ],
+    "cnt": 2
+}

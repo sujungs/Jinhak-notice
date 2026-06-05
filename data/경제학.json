@@ -1,0 +1,736 @@
+{
+    "list": [
+        {
+            "rank": null,
+            "recruitIdx": 42905,
+            "recruitTitle": "2026-2학기 성심교정 강사 초빙 공고 1차",
+            "recruitTypeCode": "L",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-03T15:00:00.000Z",
+            "applyEndTime": "2026-06-10T07:00:59.000Z",
+            "dDay": 5,
+            "hompageUrl": "https://uportal.catholic.ac.kr/stw/recu/appl/applApplyLogin.do",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-10T07:00:59.000Z",
+            "registerTime": "2026-06-05 11:54:41",
+            "originApplyStartTime": "2026-06-04 00:00:00",
+            "originApplyEndTime": "2026-06-10 16:00:59",
+            "originPublishStartTime": "2026-06-04 00:00:00",
+            "originPublishEndTime": "2026-06-10 16:00:59",
+            "regionData": [
+                {
+                    "address": "성심캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "7",
+                    "region": "경기"
+                }
+            ],
+            "organIdx": 5,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "가톨릭대학교",
+            "currentTime": "2026-06-05 13:40:02.167",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 15,
+            "inflowCnt": 12,
+            "logoFileName": "1009",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42880,
+            "recruitTitle": "2026년도 제2차 전문직원 채용공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-09T07:00:00.000Z",
+            "applyEndTime": "2026-06-16T01:00:59.000Z",
+            "dDay": 11,
+            "hompageUrl": "http://recruit.kepco.co.kr",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-16T01:00:59.000Z",
+            "registerTime": "2026-06-04 15:29:48",
+            "originApplyStartTime": "2026-06-09 16:00:00",
+            "originApplyEndTime": "2026-06-16 10:00:59",
+            "originPublishStartTime": "2026-06-02 16:00:00",
+            "originPublishEndTime": "2026-06-16 10:00:59",
+            "regionData": [
+                {
+                    "address": "한국전력공사 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "3081",
+                    "region": "전남"
+                },
+                {
+                    "address": "서울시 서초구 효령로 72길 60 UAE원전건설처",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "etc",
+                    "region": "서울"
+                },
+                {
+                    "address": "대전시 유성구 문지로 105 전력연구원 디지털솔루션연구소",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "etc",
+                    "region": "대전"
+                },
+                {
+                    "address": "나주시 전력로 55",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "etc",
+                    "region": "전남"
+                }
+            ],
+            "organIdx": 5634,
+            "organTypeCode": "RS1",
+            "organCode": "RS3",
+            "organName": "한국전력공사",
+            "currentTime": "2026-06-05 13:40:02.168",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 21,
+            "inflowCnt": 14,
+            "logoFileName": "1010113800_6f3is",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42854,
+            "recruitTitle": "Public Notice /Edital EN-ViSION",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-25T14:59:59.000Z",
+            "dDay": 20,
+            "hompageUrl": "https://euraxess.ec.europa.eu/jobs/441799",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-25T14:59:59.000Z",
+            "registerTime": "2026-06-04 12:04:57",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-06-25 23:59:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-06-25 23:59:59",
+            "regionData": [
+                {
+                    "address": "Portugal, Associação do Instituto Superior Técnico para a Investigação e Desenvolvimento _IST-ID, Lisboa, 1000-043, Lisbon, Av. António José de Almeida 12",
+                    "national_name": "포르투갈",
+                    "national": "620",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100249,
+            "organTypeCode": "RS1",
+            "organCode": "RS2",
+            "organName": "IST-ID",
+            "currentTime": "2026-06-05 13:40:02.168",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 3,
+            "inflowCnt": 2,
+            "logoFileName": "G00249",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42850,
+            "recruitTitle": "Postdoctoral Researcher",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-08-02T14:59:59.000Z",
+            "dDay": 58,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-08-02T14:59:59.000Z",
+            "registerTime": "2026-06-04 11:59:43",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-08-02 23:59:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-08-02 23:59:59",
+            "regionData": [
+                {
+                    "address": "ESSEC Business School 본교",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "campus_idx": "201143",
+                    "region": "해외"
+                },
+                {
+                    "address": "France, ESSEC BUSINESS SCHOOL, Cergy",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "campus_idx": "etc",
+                    "region": "해외"
+                }
+            ],
+            "organIdx": 201143,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "ESSEC Business School",
+            "currentTime": "2026-06-05 13:40:02.168",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 3,
+            "inflowCnt": 2,
+            "logoFileName": "0422110429_1eai7",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42849,
+            "recruitTitle": "약학과 4단계 BK21사업 교육연구단 행정직원 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-07T03:00:59.000Z",
+            "dDay": 2,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-07T03:00:59.000Z",
+            "registerTime": "2026-06-04 11:57:43",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-07 12:00:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-07 12:00:59",
+            "regionData": [
+                {
+                    "address": "대덕캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "대전",
+                    "campus_idx": "313"
+                }
+            ],
+            "organIdx": 275,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "충남대학교",
+            "currentTime": "2026-06-05 13:40:02.168",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 3,
+            "inflowCnt": 2,
+            "logoFileName": "1316",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42847,
+            "recruitTitle": "해양기후-생태계 상호작용연구실 행정 연구원 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-30T09:00:59.000Z",
+            "dDay": 25,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-30T09:00:59.000Z",
+            "registerTime": "2026-06-04 11:52:45",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-30 18:00:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-30 18:00:59",
+            "regionData": [
+                {
+                    "address": "용봉캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "광주",
+                    "campus_idx": "312"
+                }
+            ],
+            "organIdx": 274,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "전남대학교",
+            "currentTime": "2026-06-05 13:40:02.168",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 7,
+            "inflowCnt": 6,
+            "logoFileName": "1279",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42835,
+            "recruitTitle": "2026학년도 2학기 신규 강사채용",
+            "recruitTypeCode": "L",
+            "applyMethodCode": [
+                "E",
+                "V"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-12T06:00:59.000Z",
+            "dDay": 7,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-12T06:00:59.000Z",
+            "registerTime": "2026-06-04 11:18:45",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-12 15:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-12 15:00:59",
+            "regionData": [
+                {
+                    "address": "경기과학기술대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "12",
+                    "region": "경기"
+                }
+            ],
+            "organIdx": 10,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV2",
+            "organName": "경기과학기술대학교",
+            "currentTime": "2026-06-05 13:40:02.168",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 152,
+            "inflowCnt": 127,
+            "logoFileName": "1390",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42829,
+            "recruitTitle": "경영경제융합학부 연구교원 초빙공고",
+            "recruitTypeCode": "T",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-05T06:00:59.000Z",
+            "dDay": 0,
+            "hompageUrl": "https://recruit.ulsan.ac.kr/RCRU/A/RUA010_01.aspx",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-05T06:00:59.000Z",
+            "registerTime": "2026-06-02 15:19:01",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-05 15:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-05 15:00:59",
+            "regionData": [
+                {
+                    "address": "울산대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "울산",
+                    "campus_idx": "101"
+                }
+            ],
+            "organIdx": 91,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "울산대학교",
+            "currentTime": "2026-06-05 13:40:02.168",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 38,
+            "inflowCnt": 18,
+            "logoFileName": "1258",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42820,
+            "recruitTitle": "2026학년도 2학기 및 2027학년도 1학기 강사 공개채용 공고",
+            "recruitTypeCode": "L",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-08T07:00:59.000Z",
+            "dDay": 3,
+            "hompageUrl": "https://gmsportal.korea.ac.kr/recruit/index_lecturer.jsp",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-08T07:00:59.000Z",
+            "registerTime": "2026-06-02 14:46:50",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-08 16:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-08 16:00:59",
+            "regionData": [
+                {
+                    "address": "안암캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "335",
+                    "region": "서울"
+                }
+            ],
+            "organIdx": 295,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "고려대학교",
+            "currentTime": "2026-06-05 13:40:02.168",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 1696,
+            "inflowCnt": 394,
+            "logoFileName": "1050",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42815,
+            "recruitTitle": "환경경제 위촉연구원 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-16T01:00:59.000Z",
+            "dDay": 11,
+            "hompageUrl": "https://kei.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255540",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-16T01:00:59.000Z",
+            "registerTime": "2026-06-02 14:20:23",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-16 10:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-16 10:00:59",
+            "regionData": [
+                {
+                    "address": "한국환경연구원 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "2872",
+                    "region": "세종"
+                }
+            ],
+            "organIdx": 5426,
+            "organTypeCode": "RS1",
+            "organCode": "RS2",
+            "organName": "한국환경연구원",
+            "currentTime": "2026-06-05 13:40:02.169",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 19,
+            "inflowCnt": 10,
+            "logoFileName": "R5426",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42792,
+            "recruitTitle": "2026-2학기 겸임교원 공개채용 공고",
+            "recruitTypeCode": "T",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-21T14:59:59.000Z",
+            "dDay": 16,
+            "hompageUrl": "https://erpprof.cha.ac.kr/nx/",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-21T14:59:59.000Z",
+            "registerTime": "2026-06-02 11:54:59",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-21 23:59:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-21 23:59:59",
+            "regionData": [
+                {
+                    "address": "차의과학대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경기",
+                    "campus_idx": "427"
+                }
+            ],
+            "organIdx": 379,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "차의과학대학교",
+            "currentTime": "2026-06-05 13:40:02.169",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 118,
+            "inflowCnt": 44,
+            "logoFileName": "1302",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42791,
+            "recruitTitle": "2026-2학기 및 2027-1학기 교원(강사) 공개채용 공고",
+            "recruitTypeCode": "L",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-21T14:59:59.000Z",
+            "dDay": 16,
+            "hompageUrl": "https://erpprof.cha.ac.kr/nx/",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-21T14:59:59.000Z",
+            "registerTime": "2026-06-02 11:50:57",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-21 23:59:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-21 23:59:59",
+            "regionData": [
+                {
+                    "address": "차의과학대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경기",
+                    "campus_idx": "427"
+                }
+            ],
+            "organIdx": 379,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "차의과학대학교",
+            "currentTime": "2026-06-05 13:40:02.169",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 275,
+            "inflowCnt": 122,
+            "logoFileName": "1302",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42787,
+            "recruitTitle": "산학협력단 산학연구진흥팀 계약직원 채용",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-10T03:00:59.000Z",
+            "dDay": 5,
+            "hompageUrl": "https://join.yu.ac.kr/front_new/index.php?g_page=program&m_page=program01&act=view.new&P_IDX=2431",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-10T03:00:59.000Z",
+            "registerTime": "2026-06-02 11:42:50",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-10 12:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-10 12:00:59",
+            "regionData": [
+                {
+                    "address": "영남대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경북",
+                    "campus_idx": "206"
+                }
+            ],
+            "organIdx": 183,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "영남대학교",
+            "currentTime": "2026-06-05 13:40:02.169",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 14,
+            "inflowCnt": 6,
+            "logoFileName": "1240",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42771,
+            "recruitTitle": "서울캠퍼스 석좌/초빙/특임교수 채용 공고",
+            "recruitTypeCode": "T",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-07T14:59:59.000Z",
+            "dDay": 2,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-07T14:59:59.000Z",
+            "registerTime": "2026-06-02 10:49:26",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-07 23:59:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-07 23:59:59",
+            "regionData": [
+                {
+                    "address": "서울캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "380",
+                    "region": "서울"
+                }
+            ],
+            "organIdx": 338,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "건국대학교",
+            "currentTime": "2026-06-05 13:40:02.169",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 211,
+            "inflowCnt": 118,
+            "logoFileName": "1020",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42768,
+            "recruitTitle": "한국급경사지안전협회 직원 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-05-26T15:00:00.000Z",
+            "applyEndTime": "2026-06-10T04:00:59.000Z",
+            "dDay": 5,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-10T04:00:59.000Z",
+            "registerTime": "2026-06-01 16:39:31",
+            "originApplyStartTime": "2026-05-27 00:00:00",
+            "originApplyEndTime": "2026-06-10 13:00:59",
+            "originPublishStartTime": "2026-05-27 00:00:00",
+            "originPublishEndTime": "2026-06-10 13:00:59",
+            "regionData": [
+                {
+                    "address": "한국급경사지안전협회 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "200308",
+                    "region": "세종"
+                }
+            ],
+            "organIdx": 200308,
+            "organTypeCode": "RS1",
+            "organCode": "RS1",
+            "organName": "한국급경사지안전협회",
+            "currentTime": "2026-06-05 13:40:02.169",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 13,
+            "inflowCnt": 5,
+            "logoFileName": "0602134729_gra6r",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42767,
+            "recruitTitle": "제주연구원 연구위원(연구직) 공개채용 재공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-28T15:00:00.000Z",
+            "applyEndTime": "2026-06-09T08:00:59.000Z",
+            "dDay": 4,
+            "hompageUrl": "https://recruit.incruit.com",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-09T08:00:59.000Z",
+            "registerTime": "2026-06-01 16:25:12",
+            "originApplyStartTime": "2026-05-29 00:00:00",
+            "originApplyEndTime": "2026-06-09 17:00:59",
+            "originPublishStartTime": "2026-05-29 00:00:00",
+            "originPublishEndTime": "2026-06-09 17:00:59",
+            "regionData": [
+                {
+                    "address": "제주연구원 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "3085",
+                    "region": "제주"
+                }
+            ],
+            "organIdx": 5638,
+            "organTypeCode": "RS1",
+            "organCode": "RS3",
+            "organName": "제주연구원",
+            "currentTime": "2026-06-05 13:40:02.169",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 33,
+            "inflowCnt": 25,
+            "logoFileName": "1014114538_htbax",
+            "logoFileExt": ".svg"
+        }
+    ],
+    "cnt": 63
+}

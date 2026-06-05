@@ -1,0 +1,750 @@
+{
+    "list": [
+        {
+            "rank": null,
+            "recruitIdx": 42856,
+            "recruitTitle": "Post-doctoral position",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-06-22T03:00:59.000Z",
+            "dDay": 17,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-22T03:00:59.000Z",
+            "registerTime": "2026-06-04 12:07:08",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-06-22 12:00:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-06-22 12:00:59",
+            "regionData": [
+                {
+                    "address": "Poland, Institute of Physical Chemistry Polish Academy of Sciences, Warsaw, 01-224, Kasprzaka 44/52",
+                    "national_name": "폴란드",
+                    "national": "616",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100354,
+            "organTypeCode": "RS1",
+            "organCode": "RS2",
+            "organName": "Institute of Physical Chemistry Polish Academy of Sciences",
+            "currentTime": "2026-06-05 13:39:54.308",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 5,
+            "inflowCnt": 4,
+            "logoFileName": "G00354",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42855,
+            "recruitTitle": "Postdoc at the Institute for Quantum Optics and Quantum Information Vienna IQOQIVIE",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-02T15:00:00.000Z",
+            "applyEndTime": "2026-12-31T14:55:59.000Z",
+            "dDay": 209,
+            "hompageUrl": "https://euraxess.ec.europa.eu/jobs/441685",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-12-31T14:55:59.000Z",
+            "registerTime": "2026-06-04 12:05:56",
+            "originApplyStartTime": "2026-06-03 00:00:00",
+            "originApplyEndTime": "2026-12-31 23:55:59",
+            "originPublishStartTime": "2026-06-03 00:00:00",
+            "originPublishEndTime": "2026-12-31 23:55:59",
+            "regionData": [
+                {
+                    "address": "Austria, Austrian Academy of Sciences, The Institute for Quantum Optics and Quantum Information Vienna IQOQIVIE",
+                    "national_name": "오스트리아",
+                    "national": "040",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 200927,
+            "organTypeCode": "RS1",
+            "organCode": "RS2",
+            "organName": "Institute for Quantum Optics and Quantum Information - Vienna",
+            "currentTime": "2026-06-05 13:39:54.308",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 3,
+            "inflowCnt": 3,
+            "logoFileName": "0128174747_au2tv",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42844,
+            "recruitTitle": "자연과학대학부설 기초과학연구소 행정조교 신규 채용 안내",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-15T01:00:59.000Z",
+            "dDay": 10,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-15T01:00:59.000Z",
+            "registerTime": "2026-06-04 11:41:24",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-15 10:00:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-15 10:00:59",
+            "regionData": [
+                {
+                    "address": "순천향대학교 본교",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "충남",
+                    "campus_idx": "79"
+                }
+            ],
+            "organIdx": 70,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "순천향대학교",
+            "currentTime": "2026-06-05 13:39:54.308",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 3,
+            "inflowCnt": 2,
+            "logoFileName": "1217",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42820,
+            "recruitTitle": "2026학년도 2학기 및 2027학년도 1학기 강사 공개채용 공고",
+            "recruitTypeCode": "L",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-08T07:00:59.000Z",
+            "dDay": 3,
+            "hompageUrl": "https://gmsportal.korea.ac.kr/recruit/index_lecturer.jsp",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-08T07:00:59.000Z",
+            "registerTime": "2026-06-02 14:46:50",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-08 16:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-08 16:00:59",
+            "regionData": [
+                {
+                    "address": "안암캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "335",
+                    "region": "서울"
+                }
+            ],
+            "organIdx": 295,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "고려대학교",
+            "currentTime": "2026-06-05 13:39:54.308",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 1696,
+            "inflowCnt": 394,
+            "logoFileName": "1050",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42810,
+            "recruitTitle": "2026-7회 의생명 및 화학 연구클러스터(첨단 반응동역학 연구단) 연구직 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-01T15:00:00.000Z",
+            "applyEndTime": "2026-06-17T09:00:59.000Z",
+            "dDay": 12,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-17T09:00:59.000Z",
+            "registerTime": "2026-06-02 14:12:37",
+            "originApplyStartTime": "2026-06-02 00:00:00",
+            "originApplyEndTime": "2026-06-17 18:00:59",
+            "originPublishStartTime": "2026-06-02 00:00:00",
+            "originPublishEndTime": "2026-06-17 18:00:59",
+            "regionData": [
+                {
+                    "address": "기초과학연구원 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "대전",
+                    "campus_idx": "2607"
+                }
+            ],
+            "organIdx": 2063,
+            "organTypeCode": "RS1",
+            "organCode": "RS3",
+            "organName": "기초과학연구원",
+            "currentTime": "2026-06-05 13:39:54.308",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 43,
+            "inflowCnt": 10,
+            "logoFileName": "R2063",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42806,
+            "recruitTitle": "2026년 국립중앙박물관 연구직 공무원 경력경쟁채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-06-09T00:00:00.000Z",
+            "applyEndTime": "2026-06-11T09:00:59.000Z",
+            "dDay": 6,
+            "hompageUrl": "https://gongmuwon.gosi.kr",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-11T09:00:59.000Z",
+            "registerTime": "2026-06-02 14:03:35",
+            "originApplyStartTime": "2026-06-09 09:00:00",
+            "originApplyEndTime": "2026-06-11 18:00:59",
+            "originPublishStartTime": "2026-06-01 09:00:00",
+            "originPublishEndTime": "2026-06-11 18:00:59",
+            "regionData": [
+                {
+                    "address": "문화체육관광부 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "세종",
+                    "campus_idx": "2362"
+                }
+            ],
+            "organIdx": 3026,
+            "organTypeCode": "RS1",
+            "organCode": "RS3",
+            "organName": "문화체육관광부",
+            "currentTime": "2026-06-05 13:39:54.308",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 101,
+            "inflowCnt": 55,
+            "logoFileName": "R3026",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42802,
+            "recruitTitle": "경북 김천 시험연구소 성분검정과 기간제 보조원 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "P",
+                "V"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-17T09:00:59.000Z",
+            "dDay": 12,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-17T09:00:59.000Z",
+            "registerTime": "2026-06-02 13:51:00",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-17 18:00:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-17 18:00:59",
+            "regionData": [
+                {
+                    "address": "국립농산물품질관리원 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경북",
+                    "campus_idx": "2481"
+                }
+            ],
+            "organIdx": 3165,
+            "organTypeCode": "RS1",
+            "organCode": "RS3",
+            "organName": "국립농산물품질관리원",
+            "currentTime": "2026-06-05 13:39:54.308",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 12,
+            "inflowCnt": 6,
+            "logoFileName": "R3165",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42778,
+            "recruitTitle": "경북전략산업앵커사업단 전담직원(연구원, 행정) 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-05-31T15:00:00.000Z",
+            "applyEndTime": "2026-06-14T14:59:59.000Z",
+            "dDay": 9,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-14T14:59:59.000Z",
+            "registerTime": "2026-06-02 11:16:40",
+            "originApplyStartTime": "2026-06-01 00:00:00",
+            "originApplyEndTime": "2026-06-14 23:59:59",
+            "originPublishStartTime": "2026-06-01 00:00:00",
+            "originPublishEndTime": "2026-06-14 23:59:59",
+            "regionData": [
+                {
+                    "address": "경산캠퍼스",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "경북",
+                    "campus_idx": "181"
+                }
+            ],
+            "organIdx": 158,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "대구대학교",
+            "currentTime": "2026-06-05 13:39:54.309",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 22,
+            "inflowCnt": 12,
+            "logoFileName": "1095",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42758,
+            "recruitTitle": "기술평가 연구원",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-28T15:00:00.000Z",
+            "applyEndTime": "2026-06-07T14:59:59.000Z",
+            "dDay": 2,
+            "hompageUrl": "https://nice.career.greetinghr.com/ko/o/218030",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-07T14:59:59.000Z",
+            "registerTime": "2026-06-01 15:05:59",
+            "originApplyStartTime": "2026-05-29 00:00:00",
+            "originApplyEndTime": "2026-06-07 23:59:59",
+            "originPublishStartTime": "2026-05-29 00:00:00",
+            "originPublishEndTime": "2026-06-07 23:59:59",
+            "regionData": [
+                {
+                    "address": "나이스디앤비 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "서울",
+                    "campus_idx": "200579"
+                }
+            ],
+            "organIdx": 200579,
+            "organTypeCode": "RS1",
+            "organCode": "RS1",
+            "organName": "나이스디앤비",
+            "currentTime": "2026-06-05 13:39:54.309",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 22,
+            "inflowCnt": 15,
+            "logoFileName": "0911120431_qtjy1",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42747,
+            "recruitTitle": "공무직 연구원 가급-보존 채용 공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E",
+                "P",
+                "V"
+            ],
+            "applyStartTime": "2026-06-04T15:00:00.000Z",
+            "applyEndTime": "2026-06-09T09:00:59.000Z",
+            "dDay": 4,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-09T09:00:59.000Z",
+            "registerTime": "2026-06-01 14:20:57",
+            "originApplyStartTime": "2026-06-05 00:00:00",
+            "originApplyEndTime": "2026-06-09 18:00:59",
+            "originPublishStartTime": "2026-05-29 00:00:00",
+            "originPublishEndTime": "2026-06-09 18:00:59",
+            "regionData": [
+                {
+                    "address": "국립부여문화유산연구소 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "region": "충남",
+                    "campus_idx": "200365"
+                }
+            ],
+            "organIdx": 200365,
+            "organTypeCode": "RS1",
+            "organCode": "RS1",
+            "organName": "국립부여문화유산연구소",
+            "currentTime": "2026-06-05 13:39:54.309",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 14,
+            "inflowCnt": 7,
+            "logoFileName": "0708170257_0bam7",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42746,
+            "recruitTitle": "2026년도 제3회 공무직 연구원 채용 재공고",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-06-03T15:00:00.000Z",
+            "applyEndTime": "2026-06-08T09:00:59.000Z",
+            "dDay": 3,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-08T09:00:59.000Z",
+            "registerTime": "2026-06-01 14:15:21",
+            "originApplyStartTime": "2026-06-04 00:00:00",
+            "originApplyEndTime": "2026-06-08 18:00:59",
+            "originPublishStartTime": "2026-05-29 00:00:00",
+            "originPublishEndTime": "2026-06-08 18:00:59",
+            "regionData": [
+                {
+                    "address": "국가기상위성센터 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "200322",
+                    "region": "충북"
+                },
+                {
+                    "address": "진천군",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "etc",
+                    "region": "충북"
+                }
+            ],
+            "organIdx": 200322,
+            "organTypeCode": "RS1",
+            "organCode": "RS1",
+            "organName": "국가기상위성센터",
+            "currentTime": "2026-06-05 13:39:54.309",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                null
+            ],
+            "searchCnt": 18,
+            "inflowCnt": 8,
+            "logoFileName": "0612163543_oj3sx",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42736,
+            "recruitTitle": "VHIO International Postdoctoral Programme for Translational Research",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-29T15:00:00.000Z",
+            "applyEndTime": "2026-08-20T14:59:59.000Z",
+            "dDay": 76,
+            "hompageUrl": "https://euraxess.ec.europa.eu/jobs/440962",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-08-20T14:59:59.000Z",
+            "registerTime": "2026-06-01 12:16:39",
+            "originApplyStartTime": "2026-05-30 00:00:00",
+            "originApplyEndTime": "2026-08-20 23:59:59",
+            "originPublishStartTime": "2026-05-30 00:00:00",
+            "originPublishEndTime": "2026-08-20 23:59:59",
+            "regionData": [
+                {
+                    "address": "Vall d'Hebron Institute of Oncology(VHIO) 본사",
+                    "national_name": "스페인",
+                    "national": "724",
+                    "campus_idx": "100300",
+                    "region": "해외"
+                }
+            ],
+            "organIdx": 100300,
+            "organTypeCode": "RS1",
+            "organCode": "RS2",
+            "organName": "Vall d'Hebron Institute of Oncology(VHIO)",
+            "currentTime": "2026-06-05 13:39:54.309",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 7,
+            "inflowCnt": 1,
+            "logoFileName": "G00300",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42732,
+            "recruitTitle": "Advance Your Research Career with TALENTGAL MSCA COFUND at IGFAE",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-29T15:00:00.000Z",
+            "applyEndTime": "2026-07-23T05:00:59.000Z",
+            "dDay": 48,
+            "hompageUrl": "https://euraxess.ec.europa.eu/jobs/441028",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-07-23T05:00:59.000Z",
+            "registerTime": "2026-06-01 12:13:07",
+            "originApplyStartTime": "2026-05-30 00:00:00",
+            "originApplyEndTime": "2026-07-23 14:00:59",
+            "originPublishStartTime": "2026-05-30 00:00:00",
+            "originPublishEndTime": "2026-07-23 14:00:59",
+            "regionData": [
+                {
+                    "address": "University of Santiago de Compostela 본교",
+                    "national_name": "스페인",
+                    "national": "724",
+                    "region": "해외",
+                    "campus_idx": "200119"
+                }
+            ],
+            "organIdx": 200119,
+            "organTypeCode": "UNIV",
+            "organCode": "UNIV1",
+            "organName": "University of Santiago de Compostela",
+            "currentTime": "2026-06-05 13:39:54.309",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 5,
+            "inflowCnt": 1,
+            "logoFileName": "0219173919_tb9zs",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42731,
+            "recruitTitle": "국제핵융합실험로(ITER, 이터) 공동개발사업 ITER 기구 채용 모집공고 안내",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "H"
+            ],
+            "applyStartTime": "2026-05-27T15:00:00.000Z",
+            "applyEndTime": "2026-12-31T14:59:59.000Z",
+            "dDay": 209,
+            "hompageUrl": "https://www.iter.org/jobs",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-12-31T14:59:59.000Z",
+            "registerTime": "2026-06-01 12:07:30",
+            "originApplyStartTime": "2026-05-28 00:00:00",
+            "originApplyEndTime": "2026-12-31 23:59:59",
+            "originPublishStartTime": "2026-05-28 00:00:00",
+            "originPublishEndTime": "2026-12-31 23:59:59",
+            "regionData": [
+                {
+                    "address": "한국핵융합에너지연구원 본사",
+                    "national_name": "대한민국",
+                    "national": "410",
+                    "campus_idx": "2873",
+                    "region": "대전"
+                },
+                {
+                    "address": "ITER",
+                    "national_name": "프랑스",
+                    "national": "250",
+                    "campus_idx": "etc",
+                    "region": "해외"
+                }
+            ],
+            "organIdx": 5427,
+            "organTypeCode": "RS1",
+            "organCode": "RS2",
+            "organName": "한국핵융합에너지연구원",
+            "currentTime": "2026-06-05 13:39:54.309",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [],
+            "searchCnt": 34,
+            "inflowCnt": 8,
+            "logoFileName": "R5427",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42722,
+            "recruitTitle": "Public selection procedure, based on qualifications and interview, for the awarding of n. 1 post-doc fellowship (level 2), pursuant to art. 22-bis of Law 30 December 2010, n. 240, lasting 24 months, p",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-05-29T15:00:00.000Z",
+            "applyEndTime": "2026-07-03T14:59:59.000Z",
+            "dDay": 28,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-07-03T14:59:59.000Z",
+            "registerTime": "2026-06-01 11:52:05",
+            "originApplyStartTime": "2026-05-30 00:00:00",
+            "originApplyEndTime": "2026-07-03 23:59:59",
+            "originPublishStartTime": "2026-05-30 00:00:00",
+            "originPublishEndTime": "2026-07-03 23:59:59",
+            "regionData": [
+                {
+                    "address": "INAF-Osservatorio Astronomico di Trieste 본사",
+                    "national_name": "이탈리아",
+                    "national": "380",
+                    "region": "해외",
+                    "campus_idx": "100322"
+                },
+                {
+                    "address": "Italy, Istituto nazionale di Astrofisica-Osservatorio Astronomico di Trieste, TRIESTE, 34143, TS, VIA Tiepolo n. 11",
+                    "national_name": "이탈리아",
+                    "national": "380",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100322,
+            "organTypeCode": "RS1",
+            "organCode": "RS2",
+            "organName": "INAF-Osservatorio Astronomico di Trieste",
+            "currentTime": "2026-06-05 13:39:54.309",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 4,
+            "inflowCnt": 1,
+            "logoFileName": "G00322",
+            "logoFileExt": ".svg"
+        },
+        {
+            "rank": null,
+            "recruitIdx": 42721,
+            "recruitTitle": "Public selection procedure, based on qualifications and interview, for the awarding of n. 1 post-doc fellowship (level 1), pursuant to art. 22-bis of Law 30 December 2010, n. 240, lasting 12 months, p",
+            "recruitTypeCode": "RS",
+            "applyMethodCode": [
+                "E"
+            ],
+            "applyStartTime": "2026-05-29T15:00:00.000Z",
+            "applyEndTime": "2026-06-26T14:59:59.000Z",
+            "dDay": 21,
+            "hompageUrl": "",
+            "isApplyEarlyEnd": false,
+            "applyEarlyEndTime": "2026-06-26T14:59:59.000Z",
+            "registerTime": "2026-06-01 11:51:13",
+            "originApplyStartTime": "2026-05-30 00:00:00",
+            "originApplyEndTime": "2026-06-26 23:59:59",
+            "originPublishStartTime": "2026-05-30 00:00:00",
+            "originPublishEndTime": "2026-06-26 23:59:59",
+            "regionData": [
+                {
+                    "address": "INAF-Osservatorio Astronomico di Trieste 본사",
+                    "national_name": "이탈리아",
+                    "national": "380",
+                    "region": "해외",
+                    "campus_idx": "100322"
+                },
+                {
+                    "address": "Italy, Istituto nazionale di Astrofisica-Osservatorio Astronomico di Trieste, TRIESTE, 34143, TS, VIA Tiepolo n. 11",
+                    "national_name": "이탈리아",
+                    "national": "380",
+                    "region": "해외",
+                    "campus_idx": "etc"
+                }
+            ],
+            "organIdx": 100322,
+            "organTypeCode": "RS1",
+            "organCode": "RS2",
+            "organName": "INAF-Osservatorio Astronomico di Trieste",
+            "currentTime": "2026-06-05 13:39:54.309",
+            "organNameHighlight": null,
+            "recruitTitleHighlight": null,
+            "suggest": null,
+            "recruitScrap": false,
+            "recruitTypeDetailCode": [
+                "PD"
+            ],
+            "searchCnt": 3,
+            "inflowCnt": 0,
+            "logoFileName": "G00322",
+            "logoFileExt": ".svg"
+        }
+    ],
+    "cnt": 107
+}
