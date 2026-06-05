@@ -399,7 +399,7 @@ def load_major_content(find_major_list, headers, progress_bar = None):  # major 
     for major in find_major_list:
         # html = requests.get(f"{base_url}{url_list[major]}", headers=headers)        # 각 전공별 url → json 형태로 크롤링
         # data = html.json()
-
+        
         with open(f"data/{major}.json", encoding="utf-8") as f:
             data = json.load(f)
 
@@ -725,10 +725,8 @@ if option == "Facebook 그룹":
     
     if st.button("전공별 게시글 생성"):
         progress_bar = st.progress(0)
-        # st.session_state.major_content = load_major_content(majors, headers, progress_bar)
+        st.session_state.major_content = load_major_content(majors, headers, progress_bar)
 
-with open(f"data/{major}.json", encoding="utf-8") as f:
-    data = json.load(f)
     st.divider()
     
     if st.session_state.major_content:
