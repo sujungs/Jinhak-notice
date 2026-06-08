@@ -261,13 +261,10 @@ def compare_hbn_moa(row, moa_df):
 def crawl_hibrain(hbn_url, headers, progress_bar = None):
     hbn_data = []
 
-    status_auto = st.empty()
-
     # 하이브레인넷 url 입력
     for page_idx, url in enumerate(hbn_url):
         response = requests.get(url, headers=headers)
         hbn_html = bs(response.text, 'html.parser')
-        status_auto.success(f"✅ {response} /// {hbn_html}")
 
         # 각 페이지 크롤링
         for li in hbn_html.find_all("li", attrs={"class" : "row sortRoot"}):
