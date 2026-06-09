@@ -679,7 +679,7 @@ if option == "하이브레인넷":
         progress_bar = st.progress(0)
 
         hbn_data = crawl_hibrain(hbn_url, headers, progress_bar)
-        hbn_df = pd.read_excel("hbn_df.xslx")
+        hbn_df = pd.read_excel("hbn_df.xlsx")
         # hbn_df = pd.DataFrame(hbn_data, columns = ["순번", "기관명", "제목", "접수시작", "접수마감", "등록/수정일", "url"])
 
         st.session_state.hbn_df = prepro_hbn_df(hbn_df)
